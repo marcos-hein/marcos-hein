@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Marcos!</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" heigh="30px" width="30px">, Eu sou o Marcos!</h1>
  
  <div align="center">
   <a href="https://github.com/marcos-hein">
