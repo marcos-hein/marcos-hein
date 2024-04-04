@@ -7,7 +7,7 @@ Desenvolvedor Front-end
 Direcionado a facilitar a vida dos usuários através de sistemas pensados com excelente experiência do usuário e acessibilidade.
 
 * ✉️  Você pode entrar em contato comigo em [vinicius.hein@gmail.com](mailto:vinicius.hein@gmail.com)
-* 🚀  Atualmente estou trabalhando no [Grupo Casas Bahia](http://www.casasbahia.com.br/)
+* 🚀  Atualmente estou trabalhando na [OLX](https://www.olx.com.br/)
 
 ### Skills
 
